@@ -42,7 +42,7 @@ In the previous lab, we created an Event management solution and set it as the p
 
 ## Task 1: Create a data model
 
-Contoso currently stores donor contact information in their Dataverse instance. They would like to use Dataverse to track the grants they are applying for and donations that they are receiving. You need to create the necessary tables to support the future application needs of Contoso.
+Contoso currently stores donor contact information in their Dataverse instance. They would like to use Dataverse to track and manage the events that they host. You need to create the necessary tables to support the future application needs of Contoso.
 
 1.  If necessary, open a web browser and navigate to the [Power Apps](https://make.powerapps.com/) maker portal, and Sign in using your Microsoft account credentials.
 1.  While on the Power Pages home screen, using the navigation on the left, select **Tables**.
