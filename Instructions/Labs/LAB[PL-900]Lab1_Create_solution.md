@@ -17,7 +17,7 @@ Contoso would like to use Power Platform to build an Event management solution t
 
 In this exercise you create a solution that will be used for Application Lifecycle Management (ALM), and to group all the different apps, sites, and flow we create together so they can be easily managed and transported.
 
-The estimated time to complete this exercise is **15 to 20** minutes.
+The estimated time to complete this exercise is **5 minutes.
 
 Upon successful completion of this exercise, you will:
 
